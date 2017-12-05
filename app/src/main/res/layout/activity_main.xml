@@ -6,9 +6,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="top.omooo.vitamiodemo.MainActivity">
-
-    <io.vov.vitamio.widget.VideoView android:id="@+id/surface_view"
-                                     android:layout_width="match_parent"
-                                     android:layout_height="match_parent"/>
-
+    <TextView
+        android:text="测试"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 </LinearLayout>
